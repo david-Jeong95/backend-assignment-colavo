@@ -1,0 +1,29 @@
+{
+  "name": "backend-assignment-colavo",
+  "version": "1.0.0",
+  "description": "backend-assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-Jeong95/backend-assignment-colavo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-Jeong95/backend-assignment-colavo/issues"
+  },
+  "homepage": "https://github.com/david-Jeong95/backend-assignment-colavo#readme",
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
