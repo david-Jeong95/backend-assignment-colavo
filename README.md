@@ -8,7 +8,7 @@
 - **RestAPI**
 
 ```
-POST - http://localhost:3000
+POST - http://localhost:3000/getTimeSlots
 ```
 
 ## How to Run
