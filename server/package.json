@@ -19,11 +19,13 @@
   "homepage": "https://github.com/david-Jeong95/backend-assignment-colavo#readme",
   "devDependencies": {
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.13"
+    "nodemon": "^2.0.13",
+    "sequelize-cli": "^6.2.0"
   },
   "dependencies": {
     "dotenv": "^10.0.0",
     "express": "^4.17.1",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "sequelize": "^6.6.5"
   }
 }
