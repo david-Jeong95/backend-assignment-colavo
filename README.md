@@ -10,3 +10,17 @@
 ```
 POST - http://localhost:3000
 ```
+
+## How to Run
+
+**Install all dependencies**
+
+```
+npm install
+```
+
+**Start programs**
+
+```
+npm start
+```
