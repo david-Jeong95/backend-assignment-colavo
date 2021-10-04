@@ -5,7 +5,7 @@
 - node: v14.15.4
 - npm: 6.14.10
 
-- **RestAPI**
+## RestAPI
 
 ```
 POST - http://localhost:3000/getTimeSlots

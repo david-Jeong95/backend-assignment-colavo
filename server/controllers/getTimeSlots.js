@@ -20,6 +20,7 @@ module.exports = async (req, res) => {
 
     let ms = start_day_identifier;
     let unix = "";
+
     for (let i = 0; i < ms.length; i++) {
       unix += ms[i];
       if (unix.length === 4) {
